@@ -2,7 +2,7 @@
 
 ## Preview
 
-!["The Holocaust did not happen, so shoot me bitch!"](Holocaust-did-not-happen.svg.webp)
+!["The Holocaust did not happen, so shoot me bitch!"](Holocaust.webp)
 
 "The Holocaust did not happen, so shoot me bitch!"
 
